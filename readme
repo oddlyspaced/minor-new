@@ -3,3 +3,8 @@ https://ieeexplore.ieee.org/document/8237468
 
 Dataset from :
 https://paperswithcode.com/dataset/shanghaitech
+
+Things to do:
+- Create an implementation to find optimal value of K in K Means
+- Create an implementation to split Shangai Tech Part B into x4 images
+- Create an implementation to classify images with annotated headpoints using K Means
