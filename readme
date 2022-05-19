@@ -1,10 +1,7 @@
-Research Paper from :
-https://ieeexplore.ieee.org/document/8237468
-
 Dataset from :
 https://paperswithcode.com/dataset/shanghaitech
 
 Things to do:
-- Create an implementation to find optimal value of K in K Means
-- Create an implementation to split Shangai Tech Part B into x4 images
-- Create an implementation to classify images with annotated headpoints using K Means
+- Create a notebook to make use of tensorflow inference to generate heatmap
+- Figure out a way to find X and Y coords of the heads in image
+- Use this X and Y data set to classify the image
